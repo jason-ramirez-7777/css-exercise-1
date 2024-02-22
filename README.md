@@ -80,6 +80,8 @@ If submitting a badge svg, please abide by the following guidelines
 * YourBoySerge
 * Elijah Wood
 
+s
+
 ###### Compatibility
 
 * Betamax
